@@ -1,1 +1,1 @@
-"# Time-Series-Forecasting--Messi-vs-Ronaldo" 
+This report aims to forecast the future goal statistics of football legends Lionel Messi and Cristiano Ronaldo based on historical data from the 2002/03 season to the 2019/20 season. The dataset includes records of goals scored by each player. We employed data manipulation along with time series analysis techniques, including SARIMA and Holt Winter’s Exponential Smoothing models, to make short-term predictions. The report discusses the methodology, model diagnostics, and forecast evaluations.
